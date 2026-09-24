@@ -101,5 +101,5 @@ An interactive Excel dashboard analysing BIGW retail sales across **stores and e
 
 ## Author
 
-**Yukta Chavan**, Data Analyst
-[LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/chavanyukta) · chavanyukta@gmail.com
+**Kado**, Aspirant Data Analyst
+kadodukpa88@gmail.com
